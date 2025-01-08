@@ -7,4 +7,4 @@ To recognize the digits within the Sudoku puzzle, there is employed a simple K-N
 ### GUI Automation:
 The project also utilizes GUI automation to interact with the Sudoku.com website. The solver automatically clicks on each cell and inputs the correct digit using the computer vision and machine learning components.
 ### Why i did it?
-I just wanted to test python cv2 and fill my github repos lol
+I just wanted to test python cv2 and fill my github repository
